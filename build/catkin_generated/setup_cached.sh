@@ -7,7 +7,4 @@
 # new environment variables
 
 # modified environment variables
-export CMAKE_PREFIX_PATH="/home/zichao/MARS/MARS-Programming-Arduino/devel:$CMAKE_PREFIX_PATH"
-export PWD="/home/zichao/MARS/MARS-Programming-Arduino/build"
-export ROSLISP_PACKAGE_DIRECTORIES="/home/zichao/MARS/MARS-Programming-Arduino/devel/share/common-lisp"
-export ROS_PACKAGE_PATH="/home/zichao/MARS/MARS-Programming-Arduino/src:$ROS_PACKAGE_PATH"
+export PWD="/home/hanzhi713/MARS/MARS-Programming-Arduino/build"

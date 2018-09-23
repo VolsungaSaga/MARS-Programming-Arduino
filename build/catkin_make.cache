@@ -1,2 +1,2 @@
-motor-cmd-interpreter
--DCATKIN_DEVEL_PREFIX=/home/zichao/MARS/MARS-Programming-Arduino/devel -DCMAKE_INSTALL_PREFIX=/home/zichao/MARS/MARS-Programming-Arduino/install -G Unix Makefiles
+beginner_tutorials
+-DCATKIN_DEVEL_PREFIX=/home/hanzhi713/MARS/MARS-Programming-Arduino/devel -DCMAKE_INSTALL_PREFIX=/home/hanzhi713/MARS/MARS-Programming-Arduino/install -G Unix Makefiles
